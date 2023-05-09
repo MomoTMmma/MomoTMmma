@@ -52,16 +52,6 @@
 
 
 
-### DevOps  
-<div align="center">  
-  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/https://github.com/MomoTMmma" target="_blank">
@@ -102,4 +92,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
